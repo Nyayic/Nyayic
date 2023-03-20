@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fanny</h1>
 <h3 align="center">A passionate web developer from Uganda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyayic" alt="nyayic" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fanny_codes" target="blank"><img src="https://img.shields.io/twitter/follow/fanny_codes?logo=twitter&style=for-the-badge" alt="fanny_codes" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
@@ -14,6 +12,10 @@
 - 📫 How to reach me **info@fannyn.com**
 
 - ⚡ Fun fact **I'm Adventurous & Passionate about Conservation**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +32,7 @@
 <a href="https://www.hackerrank.com/fannynyayic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fannynyayic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fannynyayic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fannynyayic" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@fannynyayic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fannynyayic" height="30" width="40" /></a>
+<a href="/https://blog.fannyn.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.fannyn.com/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
