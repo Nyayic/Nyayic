@@ -5,7 +5,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyayic&show_icons=true&locale=en" alt="nyayic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyayic&" alt="nyayic" /></p>
 
 
 - 👨‍💻 All of my projects are available at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
@@ -19,6 +18,7 @@
 - ⚡ Fun fact **I'm Adventurous & Passionate about Conservation**
 <p align="left"> <a href="https://twitter.com/fanny_codes" target="blank"><img src="https://img.shields.io/twitter/follow/fanny_codes?logo=twitter&style=for-the-badge" alt="fanny_codes" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyayic&" alt="nyayic" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
