@@ -1,3 +1,6 @@
+[![MasterHead](![image](https://user-images.githubusercontent.com/34095626/226588188-4fe7502f-d976-4456-a0d4-3f3a2c12cdf0.png))]([[your GitHub link](https://github.com/Nyayic)](https://github.com/Nyayic))
+
+
 <h1>Hi 👋, I'm Fanny</h1>
 <h3>A passionate web developer, tech writer and open-source contributer from Uganda</h3>
 
