@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fanny</h1>
 <h3 align="center">A passionate web developer from Uganda</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyayic&" alt="nyayic" /></p>
+
+
 <p align="left"> <a href="https://twitter.com/fanny_codes" target="blank"><img src="https://img.shields.io/twitter/follow/fanny_codes?logo=twitter&style=for-the-badge" alt="fanny_codes" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
@@ -13,9 +16,7 @@
 
 - ⚡ Fun fact **I'm Adventurous & Passionate about Conservation**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,4 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyayic&show_icons=true&locale=en" alt="nyayic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyayic&" alt="nyayic" /></p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
