@@ -20,6 +20,7 @@
 - ⚡ Fun fact **I'm Adventurous & Passionate about Conservation**
 <p align="left"> <a href="https://twitter.com/fanny_codes" target="blank"><img src="https://img.shields.io/twitter/follow/fanny_codes?logo=twitter&style=for-the-badge" alt="fanny_codes" /></a> </p>
 
+<a href="https://app.daily.dev/fannynyayic"><img src="https://api.daily.dev/devcards/4c621349a8e44b698875ac703c9f192c.png?r=s8w" width="400" alt="Nyayic Fanny's Dev Card"/></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyayic&" alt="nyayic" /></p>
 
 <h3 align="left">Connect with me:</h3>
