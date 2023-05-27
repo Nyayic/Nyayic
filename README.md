@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
 
-- 📝 I regularly write articles on [https://blog.fannyn.com/](https://blog.fannyn.com/)
+- 📝 I regularly write articles on [https://fanny.hashnode.dev/](https://fanny.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, WORDPRESS**
 
