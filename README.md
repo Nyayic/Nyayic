@@ -9,11 +9,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
+- 👨‍💻 All of my projects are at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
 
 - 📝 I regularly write articles on [https://fanny.hashnode.dev/](https://fanny.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, WORDPRESS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, DRUPAL, WORDPRESS**
 
 - 📫 How to reach me **info@fannyn.com**
 
