@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Nyayic/Nyayic/blob/main/GITHUB-header.jpg)
 
 <h1>Hi 👋, I'm Fanny</h1>
-<h3>a web developer with a passion for creating innovative solutions and contributing to the open source community.</h3>
+<h3>a web developer with a passion for creating innovative solutions, technical writing and contributing to the open source community.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyayic&show_icons=true&locale=en&layout=compact" alt="nyayic" /></p>
 
