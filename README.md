@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are at [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
+- 👨‍💻 All of my projects can be found here: [https://fannyn.com/portifolio/](https://fannyn.com/portifolio/)
 
 - 📝 I regularly write articles on [https://fanny.hashnode.dev/](https://fanny.hashnode.dev/)
 
