@@ -51,12 +51,12 @@
 <br>
 
 <h3 align="left">Read my blogs:</h3>
-Tech Articles and Guides: https://fanny.hasnode.dev/ <br>
+My Tech Articles and Guides: https://fanny.hasnode.dev/ <br>
 General Tech: https://fannyn.com/ <br>
 Tech Talks at Conferences: https://techtalks.fannyn.com/
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### YouTube
-Beginner Web Dev Tutorials: https://www.youtube.com/@thecodechic/
+Beginner Web Development Tutorials: https://www.youtube.com/@thecodechic/
 
