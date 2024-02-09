@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://fanny.hashnode.dev/](https://fanny.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, DRUPAL, WORDPRESS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, CMS DRUPAL and WORDPRESS**
 
 - 📫 How to reach me **info@fannyn.com**
 
