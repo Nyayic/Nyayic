@@ -58,5 +58,5 @@ Tech Talks at Conferences: https://techtalks.fannyn.com/
 <!-- BLOG-POST-LIST:END -->
 
 ### YouTube
-Beginner Web Development Tutorials: https://www.youtube.com/@thecodechic/
+Weekly Beginner Web Development Tutorials: https://www.youtube.com/@thecodechic/
 
