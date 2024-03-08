@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Nyayic/Nyayic/blob/main/GITHUB-header.jpg)
 
 <h1>Hi 👋, I'm Fanny</h1>
-<h3>a web developer with a passion for creating innovative solutions, technical writing and contributing to open source and tech communities.</h3>
+<h3>a web developer with a passion for creating innovative solutions, technical writing, and contributing to open-source and tech communities.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyayic&show_icons=true&locale=en&layout=compact" alt="nyayic" /></p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://fanny.hashnode.dev/](https://fanny.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, CMS DRUPAL and WORDPRESS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, CMS DRUPAL and WordPress**
 
 - 📫 How to reach me **info@fannyn.com**
 
