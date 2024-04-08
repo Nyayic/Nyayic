@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/Nyayic/Nyayic/blob/main/GITHUB-header.jpg)
-
 <h1>Hi 👋, I'm Fanny</h1>
 <h3>a web devoper, technical writer, open-source contributor and tech communities enthusiast.</h3>
 
