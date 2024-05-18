@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, CMS DRUPAL and WordPress**
 
-- 📫 How to reach me **info@fannyn.com**
+- 📫 How to reach me **info@fannyn.com** or @fanny_codes on X.
 
 - ⚡ Fun fact **I'm Adventurous & Passionate about Conservation**
 <p align="left"> <a href="https://twitter.com/fanny_codes" target="blank"><img src="https://img.shields.io/twitter/follow/fanny_codes?logo=twitter&style=for-the-badge" alt="fanny_codes" /></a> </p>
