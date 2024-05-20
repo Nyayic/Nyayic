@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Fanny</h1>
-<h3>a web devoper, technical writer, open-source contributor and tech communities enthusiast.</h3>
+<h3>a web developer, technical writer, open-source contributor, and tech communities enthusiast.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyayic&show_icons=true&locale=en&layout=compact" alt="nyayic" /></p>
 
